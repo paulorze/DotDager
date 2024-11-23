@@ -1,0 +1,32 @@
+#fondo {
+    background-position: bottom center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 360px;
+    height: 360px;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    background-image: url('../../../assets/img/Dager1.png');
+}
+
+.about_parallax {
+    width: 360px;
+    height: 360px;
+    position: absolute;
+    top: 0;
+    right: 0;
+    overflow: hidden;
+}
+
+.about_parallax_layer {
+    background-position: bottom center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: absolute;
+    background-image: url('../../../assets/img/Anteojos.png');
+    width: 200px;
+    height: 50px;
+    top: -50px;
+    right: 80px;
+}
