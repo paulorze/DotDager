@@ -17,7 +17,7 @@ const About = () => {
                 <Typography
                     variant='h1'
                 >
-                    About me
+                    Sobre Mí
                 </Typography>
                 <Grid2
                     container

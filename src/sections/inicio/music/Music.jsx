@@ -33,7 +33,7 @@ const Music = () => {
                         <Typography
                             variant='h1'
                         >
-                            Music
+                            Música
                         </Typography>
                         <Typography
                             variant='body1'
